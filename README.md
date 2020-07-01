@@ -1,4 +1,4 @@
-# DTHWebApplication 
+# DTHWebApplication Demo 
 
 ### DTHWebApplication Spring Boot Application for DEVOPS Training Demo
 
